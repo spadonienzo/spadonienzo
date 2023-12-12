@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Enzo Spadoni, a 23-year-old Full Stack Developer passionate about web development. Here's a little bit about me:
+I'm Enzo Spadoni, a 24-year-old Full Stack Developer passionate about web development. Here's a little bit about me:
 
 - 🔭 I'm currently working on various web development projects using JavaScript, React, Redux, Node.js, Express, PostgreSQL, and SQL.
 - 🌱 I'm always learning and improving my skills, and I'm currently exploring TypeScript and Next.js.
